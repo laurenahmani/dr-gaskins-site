@@ -1,0 +1,177 @@
+@charset "UTF-8";
+.biopic {
+	height: auto;
+	max-width: 100%;
+	padding-bottom: 2em;
+}
+
+h1 {
+	text-align: center;
+	font-family: 'Great Vibes', cursive;
+	font-size: 4em;
+}
+h4{
+	text-align: left;
+	font-family: 'Merriweather', serif;
+	font-size: .9em;
+	text-transform: uppercase;
+}
+.signup1 {
+	text-align: center;
+	clear: both;
+}
+h2 {
+	text-align: center;
+	font-family: 'Merriweather', serif;
+	font-weight: 400;
+	/*font-size: 1.6em;*/
+}
+.navigation {
+	background-color: #FFFFFF;
+	text-align: right;
+}
+h3 {
+	text-align: left;
+	font-family: 'Merriweather', serif;
+}
+footer {
+	text-align: center;
+}
+
+#disseration {
+	color: #3C7AD5;
+	text-align: left;
+}
+
+.navbar .navbar-nav {
+	display: inline-block;
+	float: none;
+	border-color: #FFFFFF;
+}
+
+.navbar .navbar-collapse {
+    text-align: center;
+}
+#aboutInfo {
+	font-size: 1.1em;
+}
+#signup1 {
+	display: block;
+	margin: 0 auto;
+}
+.press{
+	font-size: 1em;
+	font-weight: 400;
+}
+li, p > a, p{
+	text-align:left;
+	list-style-type: none;
+	font-family: 'Merriweather', serif;
+}
+#affliationtable {
+	table-layout: fixed;
+	width: 100%;
+}
+
+td img, img {
+	max-width: 100%;
+	height: auto;
+	/*border-color: #FFFFFF;*/
+}
+
+td {
+	border-color: #FFFFFF;
+	padding: 5px;
+}
+
+table{
+	border: none;
+}
+
+.navbar {
+	text-transform: uppercase;
+	font-size: .7em;
+}.bottom {
+	padding-top:1em;
+	background-color: #C2A788; 
+}
+li a, a > h1 {
+	color: #000000;
+}
+a:hover, a > h1:hover {
+	color: #D70878;
+	text-decoration: none;
+}
+.press{
+	text-align:center;
+}
+.press a:hover{
+	color: #D70878;
+	text-decoration: none;
+}
+.press a{
+	text-align:center;
+	color: #000000;
+}
+
+#links p{
+	text-align:center;
+	color: #D70878;
+}
+
+.affiliates{
+	/*background-color:#E0E0E0;*/
+	padding: 1em 0 3em 0;
+}
+footer{
+	background-color:rgba(232,112,170,0.50);
+}
+
+.navbar-default{
+	border-color:#FFFFFF;
+	background-color: #FFFFFF;
+}
+.title{
+	color: #D70878;
+}
+.appt{
+	color: #D70878;
+}
+.text {
+	font-family: 'Merriweather', serif;
+}
+.posi {
+	color: #D70878;
+}
+.headerlink{
+	text-decoration:none;
+}
+.headerlink a:hover{
+	text-decoration: none;
+}.reser {
+	text-align: center;
+}
+#signup1{
+	visibility: hidden;
+}
+
+.dotted{
+	text-align: center;
+	font-size: 2em;
+	text-transform: none;
+}
+.awards > li{
+	text-align: center;
+}
+.current > a {
+	text-decoration:underline;
+	color:#D70878 !important;
+}
+
+#indexhead{
+	padding-bottom: 1em;
+}
+
+.nav > li {
+	font-size: 1.2em;
+}
